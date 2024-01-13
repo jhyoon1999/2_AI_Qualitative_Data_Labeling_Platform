@@ -14,7 +14,7 @@ db_config = {
     'user': '****',
     'password': '****',
     'database': '****',
-    'port': 30575
+    'port': '****'
 }
 
 conn = mysql.connector.connect(**db_config)
